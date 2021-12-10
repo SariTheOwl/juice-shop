@@ -27,6 +27,54 @@
       expMonth: 4
       expYear: 2086      
 -
+  email: rick_astley
+  password: 'Ztaf5bgcs@zn'
+  key: rick_astleyvv
+  role: 'admin'
+  securityQuestion:
+    id: 34
+    answer: '@xI98PxDO+06!'
+  feedback:
+    comment: 'pop star '
+    rating: 5
+  address:
+    - fullName: 'Rick'
+      mobileNum: 1234567890
+      zipCode: '4711'
+      streetAddress: 'Groove'
+      city: 'warsaw'
+      state: 'mazowssze'
+      country: 'poland'
+  card:
+    - fullName: 'Rick Astley'
+      cardNum: 4716190207391111
+      expMonth: 3
+      expYear: 2081   
+-
+  email:  youngleosia
+  password: 'bezpiecznehaslo'
+  key: rick_astleyvv
+  role: 'customer'
+  securityQuestion:
+    id: 33
+    answer: '@xI98PxDO+06!'
+  feedback:
+    comment: 'pop star '
+    rating: 5
+  address:
+    - fullName: 'Rick'
+      mobileNum: 1234567890
+      zipCode: '4711'
+      streetAddress: 'Groove'
+      city: 'warsaw'
+      state: 'mazowssze'
+      country: 'poland'
+  card:
+    - fullName: 'Young Leosia'
+      cardNum: 4716190207394368
+      expMonth: 2
+      expYear: 2081  
+-
   email: jim
   password: 'ncc-1701'
   key: jim
