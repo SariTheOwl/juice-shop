@@ -279,8 +279,6 @@ products:
     price: 19.1
     image: stickersheet_se.png
     deletedDate: '2017-09-20'
-    reviews:
-      - { text: 'Even more interesting than watching Interdimensional Cable!', author: rick_astley }
   -
     name: 'Pwning OWASP Juice Shop'
     description: '<em>The official Companion Guide</em> by Björn Kimminich available <a href="https://leanpub.com/juice-shop">for free on LeanPub</a> and also <a href="https://pwning.owasp-juice.shop">readable online</a>!'
