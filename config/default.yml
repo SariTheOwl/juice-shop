@@ -267,7 +267,7 @@ products:
     price: 3.99
     image: strawberry_juice.jpeg
   -
-    name: 'Carrot Juice (1000ml)'
+    name: 'Carrot Juice (1000ml)2'
     description: 'As the old German saying goes: "Carrots are good for the eyes. Or has anyone ever seen a rabbit with glasses?"'
     price: 2.99
     image: carrot_juice.jpeg
